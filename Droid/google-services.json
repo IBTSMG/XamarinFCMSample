@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "832837985453",
+    "project_number": "xxxxx",
     "firebase_url": "https://xamarin-fcm-sample.firebaseio.com",
     "project_id": "xamarin-fcm-sample",
     "storage_bucket": "xamarin-fcm-sample.appspot.com"
@@ -8,20 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:832837985453:android:1ad4c312d7ddb641",
+        "mobilesdk_app_id": "xxx",
         "android_client_info": {
           "package_name": "com.ibtech.xamarinfcmsample"
         }
       },
       "oauth_client": [
         {
-          "client_id": "832837985453-mkpjkqidkpfk24jljismdqrp33ackf3s.apps.googleusercontent.com",
+          "client_id": "xxxx",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA69_dXT6qHrC1zptm9QSinBwuDMZVmDXw"
+          "current_key": "xxxx"
         }
       ],
       "services": {
