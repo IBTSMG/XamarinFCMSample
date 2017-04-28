@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>832837985453-fm2c97bf64n7apac7nr21iul34ee25i3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.832837985453-fm2c97bf64n7apac7nr21iul34ee25i3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzQMMN4a_unk0-csjdchHTlc0Bomysp3g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>832837985453</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ibtech.xamarinfcmsample</string>
+	<key>PROJECT_ID</key>
+	<string>xamarin-fcm-sample</string>
+	<key>STORAGE_BUCKET</key>
+	<string>xamarin-fcm-sample.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:832837985453:ios:1ad4c312d7ddb641</string>
+	<key>DATABASE_URL</key>
+	<string>https://xamarin-fcm-sample.firebaseio.com</string>
+</dict>
+</plist>
