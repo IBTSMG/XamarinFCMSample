@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<string>xxx</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<string>xxx</string>
 	<key>CLIENT_ID</key>
-	<string>832837985453-fm2c97bf64n7apac7nr21iul34ee25i3.apps.googleusercontent.com</string>
+	<string>xxx.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.832837985453-fm2c97bf64n7apac7nr21iul34ee25i3</string>
+	<string>xxxx</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCzQMMN4a_unk0-csjdchHTlc0Bomysp3g</string>
+	<string>xxx</string>
 	<key>GCM_SENDER_ID</key>
-	<string>832837985453</string>
+	<string>xxxx</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:832837985453:ios:1ad4c312d7ddb641</string>
+	<string>xxxx</string>
 	<key>DATABASE_URL</key>
 	<string>https://xamarin-fcm-sample.firebaseio.com</string>
 </dict>
